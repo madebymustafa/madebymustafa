@@ -184,7 +184,7 @@ def info_lines(s):
         [],
         rule("Contact"),
         kv("Email", "hi.mustafa@icloud.com"),
-        kv("LinkedIn", "in/madebymustafa/"),
+        kv("LinkedIn", "in/madebymustafa"),
         [],
         rule("GitHub Stats"),
         kv2("Repos", f"{s['repos']} {{Contributed: {s['contributed']}}}", "Stars", n(s["stars"])),
