@@ -180,7 +180,7 @@ def info_lines(s):
         kv("IDE", "Claude Code, Cursor, VS Code"),
         [],
         kv("Languages.Programming", "Python, C, Lua, TypeScript"),
-        kv("Languages.Real", "German, English, Urdu, Hindi, Punjabi"),
+        kv("Languages.Real", "English, Urdu, Hindi, Punjabi"),
         kv("Hobbies", "Photography"),
         rule("Contact"),
         kv("Email", "hi.mustafa@icloud.com"),
