@@ -1,47 +1,47 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="840" height="500" viewBox="0 0 840 500" font-family="Consolas, Menlo, monospace" font-size="13px">
 <rect x="0.5" y="0.5" width="839" height="499" rx="10" fill="#0d1117" stroke="#30363d"/>
-<text x="20" y="45" font-size="10px" fill="#8b949e" xml:space="preserve">%%%%%%%%%%%%%%%%%%%%%%%%%%@@@@@@%%%%%%%%%%%%%%%%%%%%%%</text>
-<text x="20" y="60" font-size="10px" fill="#8b949e" xml:space="preserve">%%%%%%%%%%%%%%%%%%@@%#++-----=+#@@%%%%%%%%%%%%%%%%%%%%</text>
-<text x="20" y="75" font-size="10px" fill="#8b949e" xml:space="preserve">%%%%%%%%%%%%%%%%%%#=:.          -#%%%%%%%%%%%%%%%%%%%%</text>
-<text x="20" y="90" font-size="10px" fill="#8b949e" xml:space="preserve">%%%%%%%%%%%%%%%#*=.              :*#%%%%%%%%%%%%%%%%%%</text>
-<text x="20" y="105" font-size="10px" fill="#8b949e" xml:space="preserve">%%%%%%%%%%%%%@+:.           :--:. :=*@%%%%%%%%%%%%%%%%</text>
-<text x="20" y="120" font-size="10px" fill="#8b949e" xml:space="preserve">%%%%%%%%%%%%#*=           -#%@%%*.  -%@%%%%%%%%%%%%%%%</text>
-<text x="20" y="135" font-size="10px" fill="#8b949e" xml:space="preserve">%%%%%%%%%%%#=.         ..=%@@%%%#-   +%%%%%%%%%%%%%%%%</text>
-<text x="20" y="150" font-size="10px" fill="#8b949e" xml:space="preserve">%%%%%%%%%%*-          .---=+--=++-   -##%%%%%%%%%%%%%%</text>
-<text x="20" y="165" font-size="10px" fill="#8b949e" xml:space="preserve">%%%%%%%%%@*--       :+***+#%+++**=   .##%%%%%%%%%%%%%%</text>
-<text x="20" y="180" font-size="10px" fill="#8b949e" xml:space="preserve">%%%%%%%%%%%-.      .*%#%#*#*###%%*   :-+%%%%%%%%%%%%%%</text>
-<text x="20" y="195" font-size="10px" fill="#8b949e" xml:space="preserve">%%%%%%%%%%@#.      =##==+=+=+++#%=   --:%%%%%%%%%%%%%%</text>
-<text x="20" y="210" font-size="10px" fill="#8b949e" xml:space="preserve">%%%%%%%%%%%@#:     :+#%#####%###+      *@%%%%%%%%%%%%%</text>
-<text x="20" y="225" font-size="10px" fill="#8b949e" xml:space="preserve">%%%%%%%%%%%%@#-     ==+##=-*%#*+.    .*@%%%%%%%%%%%%%%</text>
-<text x="20" y="240" font-size="10px" fill="#8b949e" xml:space="preserve">%%%%%%%%%%%%%@%+:  .#*=:...:::+*   :-#@%%%%%%%%%%%%%%%</text>
-<text x="20" y="255" font-size="10px" fill="#8b949e" xml:space="preserve">%%%%%%%%%%%%%%%@@#=+%%##+==+*#%#--+%@@%%%%%%%%%%%%%%%%</text>
-<text x="20" y="270" font-size="10px" fill="#8b949e" xml:space="preserve">%%%%%%%%@@@@@@@@@@##%####*##%##%@@@@@@@@@@%%%%%%%%%%%%</text>
-<text x="20" y="285" font-size="10px" fill="#8b949e" xml:space="preserve">%%%%%@@@@@@@@@@@@@@%%########%%@@@@@@@@@@@@@@@@%%%%%%%</text>
-<text x="20" y="300" font-size="10px" fill="#8b949e" xml:space="preserve">%%%@@@@@@@@@@@@@@@@@@@%%%%%@@@@@@@@@@@@@@@@@@@@@@%%%%%</text>
-<text x="20" y="315" font-size="10px" fill="#8b949e" xml:space="preserve">%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%%</text>
-<text x="20" y="330" font-size="10px" fill="#8b949e" xml:space="preserve">%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%</text>
-<text x="20" y="345" font-size="10px" fill="#8b949e" xml:space="preserve">%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%</text>
-<text x="20" y="360" font-size="10px" fill="#8b949e" xml:space="preserve">%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%</text>
-<text x="20" y="375" font-size="10px" fill="#8b949e" xml:space="preserve">%@@@@@@@@@@@@@@@@@@@@@@@@***+#@@@@%%@@@@@@@@@@@@@@@@@%</text>
-<text x="20" y="390" font-size="10px" fill="#8b949e" xml:space="preserve">%@@@@@@@@@@@@@@@%#*#%@@@@++++%@@@#*++*%@@@@@@@@@@@@@@%</text>
-<text x="20" y="405" font-size="10px" fill="#8b949e" xml:space="preserve">@@@@@@@@@@@%%@@#+++*+#@@@@*+*@@@#++++*@@@@%@@@@@@@@@@@</text>
-<text x="20" y="420" font-size="10px" fill="#8b949e" xml:space="preserve">@@@@@@@@@@@@%@@@*++=++*@@%=*+@@@+++++%@@@@%@@@@@@@@@@@</text>
-<text x="20" y="435" font-size="10px" fill="#8b949e" xml:space="preserve">@@@@@@@@@@@%%@@@@#=+++*@@@%%%@@@%***%@@@@%*%%%%%@%%%@@</text>
-<text x="20" y="450" font-size="10px" fill="#8b949e" xml:space="preserve">@%%%%%%%%%%##@@@@@%##%@@@@@@@@@@@@@@@@@@@#*%%%@@@%%%%%</text>
-<text x="410" y="45" xml:space="preserve"><tspan fill="#58a6ff">madebymustafa@github </tspan><tspan fill="#484f58">────────────────────────────────</tspan></text>
-<text x="410" y="87" xml:space="preserve"><tspan fill="#ffa657">OS: </tspan><tspan fill="#484f58">........................................... </tspan><tspan fill="#c9d1d9">macOS</tspan></text>
-<text x="410" y="108" xml:space="preserve"><tspan fill="#ffa657">Uptime: </tspan><tspan fill="#484f58">................. </tspan><tspan fill="#c9d1d9">11 years, 0 months, 28 days</tspan></text>
-<text x="410" y="129" xml:space="preserve"><tspan fill="#ffa657">Host: </tspan><tspan fill="#484f58">..................................... </tspan><tspan fill="#c9d1d9">Macintosh</tspan></text>
-<text x="410" y="150" xml:space="preserve"><tspan fill="#ffa657">Kernel: </tspan><tspan fill="#484f58">............................... </tspan><tspan fill="#c9d1d9">Darwin 25.6.0</tspan></text>
-<text x="410" y="171" xml:space="preserve"><tspan fill="#ffa657">IDE: </tspan><tspan fill="#484f58">................... </tspan><tspan fill="#c9d1d9">Claude Code, Cursor, VS Code</tspan></text>
-<text x="410" y="213" xml:space="preserve"><tspan fill="#ffa657">Languages.Programming: </tspan><tspan fill="#484f58">... </tspan><tspan fill="#c9d1d9">Python, C, Lua, TypeScript</tspan></text>
-<text x="410" y="234" xml:space="preserve"><tspan fill="#ffa657">Languages.Real: </tspan><tspan fill="#484f58">. </tspan><tspan fill="#c9d1d9">German, English, Urdu, Hindi, Punjabi</tspan></text>
-<text x="410" y="255" xml:space="preserve"><tspan fill="#ffa657">Hobbies: </tspan><tspan fill="#484f58">................................ </tspan><tspan fill="#c9d1d9">Photography</tspan></text>
-<text x="410" y="297" xml:space="preserve"><tspan fill="#58a6ff">─ Contact </tspan><tspan fill="#484f58">───────────────────────────────────────────</tspan></text>
-<text x="410" y="318" xml:space="preserve"><tspan fill="#ffa657">Email: </tspan><tspan fill="#484f58">........................ </tspan><tspan fill="#c9d1d9">hi.mustafa@icloud.com</tspan></text>
-<text x="410" y="339" xml:space="preserve"><tspan fill="#ffa657">LinkedIn: </tspan><tspan fill="#484f58">......................... </tspan><tspan fill="#c9d1d9">in/madebymustafa/</tspan></text>
-<text x="410" y="381" xml:space="preserve"><tspan fill="#58a6ff">─ GitHub Stats </tspan><tspan fill="#484f58">──────────────────────────────────────</tspan></text>
-<text x="410" y="402" xml:space="preserve"><tspan fill="#ffa657">Repos: </tspan><tspan fill="#484f58">.... </tspan><tspan fill="#c9d1d9">4 {Contributed: 0}</tspan><tspan fill="#484f58"> | </tspan><tspan fill="#ffa657">Stars: </tspan><tspan fill="#484f58">............. </tspan><tspan fill="#c9d1d9">84</tspan></text>
-<text x="410" y="423" xml:space="preserve"><tspan fill="#ffa657">Commits: </tspan><tspan fill="#484f58">.................. </tspan><tspan fill="#c9d1d9">59</tspan><tspan fill="#484f58"> | </tspan><tspan fill="#ffa657">Followers: </tspan><tspan fill="#484f58">......... </tspan><tspan fill="#c9d1d9">11</tspan></text>
-<text x="410" y="444" xml:space="preserve"><tspan fill="#ffa657">Lines of Code: </tspan><tspan fill="#c9d1d9">20,765</tspan><tspan fill="#484f58"> ( </tspan><tspan fill="#3fb950">22,475++</tspan><tspan fill="#484f58">, </tspan><tspan fill="#f85149">1,710--</tspan><tspan fill="#484f58"> )</tspan></text>
+<text x="25" y="45" font-size="11px" fill="#8b949e" xml:space="preserve">%%%%%%%%%%%%%%%%%%%%%%%%%%@@@@@@%%%%%%%%%%%%%%%%%%%%%%</text>
+<text x="25" y="60" font-size="11px" fill="#8b949e" xml:space="preserve">%%%%%%%%%%%%%%%%%%@@%#++-----=+#@@%%%%%%%%%%%%%%%%%%%%</text>
+<text x="25" y="75" font-size="11px" fill="#8b949e" xml:space="preserve">%%%%%%%%%%%%%%%%%%#=:.          -#%%%%%%%%%%%%%%%%%%%%</text>
+<text x="25" y="90" font-size="11px" fill="#8b949e" xml:space="preserve">%%%%%%%%%%%%%%%#*=.              :*#%%%%%%%%%%%%%%%%%%</text>
+<text x="25" y="105" font-size="11px" fill="#8b949e" xml:space="preserve">%%%%%%%%%%%%%@+:.           :--:. :=*@%%%%%%%%%%%%%%%%</text>
+<text x="25" y="120" font-size="11px" fill="#8b949e" xml:space="preserve">%%%%%%%%%%%%#*=           -#%@%%*.  -%@%%%%%%%%%%%%%%%</text>
+<text x="25" y="135" font-size="11px" fill="#8b949e" xml:space="preserve">%%%%%%%%%%%#=.         ..=%@@%%%#-   +%%%%%%%%%%%%%%%%</text>
+<text x="25" y="150" font-size="11px" fill="#8b949e" xml:space="preserve">%%%%%%%%%%*-          .---=+--=++-   -##%%%%%%%%%%%%%%</text>
+<text x="25" y="165" font-size="11px" fill="#8b949e" xml:space="preserve">%%%%%%%%%@*--       :+***+#%+++**=   .##%%%%%%%%%%%%%%</text>
+<text x="25" y="180" font-size="11px" fill="#8b949e" xml:space="preserve">%%%%%%%%%%%-.      .*%#%#*#*###%%*   :-+%%%%%%%%%%%%%%</text>
+<text x="25" y="195" font-size="11px" fill="#8b949e" xml:space="preserve">%%%%%%%%%%@#.      =##==+=+=+++#%=   --:%%%%%%%%%%%%%%</text>
+<text x="25" y="210" font-size="11px" fill="#8b949e" xml:space="preserve">%%%%%%%%%%%@#:     :+#%#####%###+      *@%%%%%%%%%%%%%</text>
+<text x="25" y="225" font-size="11px" fill="#8b949e" xml:space="preserve">%%%%%%%%%%%%@#-     ==+##=-*%#*+.    .*@%%%%%%%%%%%%%%</text>
+<text x="25" y="240" font-size="11px" fill="#8b949e" xml:space="preserve">%%%%%%%%%%%%%@%+:  .#*=:...:::+*   :-#@%%%%%%%%%%%%%%%</text>
+<text x="25" y="255" font-size="11px" fill="#8b949e" xml:space="preserve">%%%%%%%%%%%%%%%@@#=+%%##+==+*#%#--+%@@%%%%%%%%%%%%%%%%</text>
+<text x="25" y="270" font-size="11px" fill="#8b949e" xml:space="preserve">%%%%%%%%@@@@@@@@@@##%####*##%##%@@@@@@@@@@%%%%%%%%%%%%</text>
+<text x="25" y="285" font-size="11px" fill="#8b949e" xml:space="preserve">%%%%%@@@@@@@@@@@@@@%%########%%@@@@@@@@@@@@@@@@%%%%%%%</text>
+<text x="25" y="300" font-size="11px" fill="#8b949e" xml:space="preserve">%%%@@@@@@@@@@@@@@@@@@@%%%%%@@@@@@@@@@@@@@@@@@@@@@%%%%%</text>
+<text x="25" y="315" font-size="11px" fill="#8b949e" xml:space="preserve">%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%%</text>
+<text x="25" y="330" font-size="11px" fill="#8b949e" xml:space="preserve">%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%</text>
+<text x="25" y="345" font-size="11px" fill="#8b949e" xml:space="preserve">%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%</text>
+<text x="25" y="360" font-size="11px" fill="#8b949e" xml:space="preserve">%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%</text>
+<text x="25" y="375" font-size="11px" fill="#8b949e" xml:space="preserve">%@@@@@@@@@@@@@@@@@@@@@@@@***+#@@@@%%@@@@@@@@@@@@@@@@@%</text>
+<text x="25" y="390" font-size="11px" fill="#8b949e" xml:space="preserve">%@@@@@@@@@@@@@@@%#*#%@@@@++++%@@@#*++*%@@@@@@@@@@@@@@%</text>
+<text x="25" y="405" font-size="11px" fill="#8b949e" xml:space="preserve">@@@@@@@@@@@%%@@#+++*+#@@@@*+*@@@#++++*@@@@%@@@@@@@@@@@</text>
+<text x="25" y="420" font-size="11px" fill="#8b949e" xml:space="preserve">@@@@@@@@@@@@%@@@*++=++*@@%=*+@@@+++++%@@@@%@@@@@@@@@@@</text>
+<text x="25" y="435" font-size="11px" fill="#8b949e" xml:space="preserve">@@@@@@@@@@@%%@@@@#=+++*@@@%%%@@@%***%@@@@%*%%%%%@%%%@@</text>
+<text x="25" y="450" font-size="11px" fill="#8b949e" xml:space="preserve">@%%%%%%%%%%##@@@@@%##%@@@@@@@@@@@@@@@@@@@#*%%%@@@%%%%%</text>
+<text x="440" y="45" font-size="12px" xml:space="preserve"><tspan fill="#58a6ff">madebymustafa@github </tspan><tspan fill="#484f58">─────────────────────────────────</tspan></text>
+<text x="440" y="87" font-size="12px" xml:space="preserve"><tspan fill="#ffa657">OS: </tspan><tspan fill="#484f58">............................................ </tspan><tspan fill="#c9d1d9">macOS</tspan></text>
+<text x="440" y="108" font-size="12px" xml:space="preserve"><tspan fill="#ffa657">Uptime: </tspan><tspan fill="#484f58">.................. </tspan><tspan fill="#c9d1d9">11 years, 0 months, 28 days</tspan></text>
+<text x="440" y="129" font-size="12px" xml:space="preserve"><tspan fill="#ffa657">Host: </tspan><tspan fill="#484f58">...................................... </tspan><tspan fill="#c9d1d9">Macintosh</tspan></text>
+<text x="440" y="150" font-size="12px" xml:space="preserve"><tspan fill="#ffa657">Kernel: </tspan><tspan fill="#484f58">................................ </tspan><tspan fill="#c9d1d9">Darwin 25.6.0</tspan></text>
+<text x="440" y="171" font-size="12px" xml:space="preserve"><tspan fill="#ffa657">IDE: </tspan><tspan fill="#484f58">.................... </tspan><tspan fill="#c9d1d9">Claude Code, Cursor, VS Code</tspan></text>
+<text x="440" y="213" font-size="12px" xml:space="preserve"><tspan fill="#ffa657">Languages.Programming: </tspan><tspan fill="#484f58">.... </tspan><tspan fill="#c9d1d9">Python, C, Lua, TypeScript</tspan></text>
+<text x="440" y="234" font-size="12px" xml:space="preserve"><tspan fill="#ffa657">Languages.Real: </tspan><tspan fill="#484f58">. </tspan><tspan fill="#c9d1d9">German, English, Urdu, Hindi, Punjabi</tspan></text>
+<text x="440" y="255" font-size="12px" xml:space="preserve"><tspan fill="#ffa657">Hobbies: </tspan><tspan fill="#484f58">................................. </tspan><tspan fill="#c9d1d9">Photography</tspan></text>
+<text x="440" y="297" font-size="12px" xml:space="preserve"><tspan fill="#58a6ff">─ Contact </tspan><tspan fill="#484f58">────────────────────────────────────────────</tspan></text>
+<text x="440" y="318" font-size="12px" xml:space="preserve"><tspan fill="#ffa657">Email: </tspan><tspan fill="#484f58">......................... </tspan><tspan fill="#c9d1d9">hi.mustafa@icloud.com</tspan></text>
+<text x="440" y="339" font-size="12px" xml:space="preserve"><tspan fill="#ffa657">LinkedIn: </tspan><tspan fill="#484f58">.......................... </tspan><tspan fill="#c9d1d9">in/madebymustafa/</tspan></text>
+<text x="440" y="381" font-size="12px" xml:space="preserve"><tspan fill="#58a6ff">─ GitHub Stats </tspan><tspan fill="#484f58">───────────────────────────────────────</tspan></text>
+<text x="440" y="402" font-size="12px" xml:space="preserve"><tspan fill="#ffa657">Repos: </tspan><tspan fill="#484f58">.... </tspan><tspan fill="#c9d1d9">4 {Contributed: 0}</tspan><tspan fill="#484f58"> | </tspan><tspan fill="#ffa657">Stars: </tspan><tspan fill="#484f58">............. </tspan><tspan fill="#c9d1d9">84</tspan></text>
+<text x="440" y="423" font-size="12px" xml:space="preserve"><tspan fill="#ffa657">Commits: </tspan><tspan fill="#484f58">.................. </tspan><tspan fill="#c9d1d9">60</tspan><tspan fill="#484f58"> | </tspan><tspan fill="#ffa657">Followers: </tspan><tspan fill="#484f58">......... </tspan><tspan fill="#c9d1d9">11</tspan></text>
+<text x="440" y="444" font-size="12px" xml:space="preserve"><tspan fill="#ffa657">Lines of Code: </tspan><tspan fill="#c9d1d9">20,765</tspan><tspan fill="#484f58"> ( </tspan><tspan fill="#3fb950">22,515++</tspan><tspan fill="#484f58">, </tspan><tspan fill="#f85149">1,750--</tspan><tspan fill="#484f58"> )</tspan></text>
 </svg>
