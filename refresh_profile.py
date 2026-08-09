@@ -1,4 +1,4 @@
-"""Regenerate dark_mode.svg / light_mode.svg with live GitHub stats.
+"""Regenerate profile_dark.svg / profile_light.svg with live GitHub stats.
 
 Runs daily via GitHub Actions. Stdlib only, no dependencies.
 """
@@ -224,6 +224,6 @@ if __name__ == "__main__":
     stats = fetch_stats()
     print("stats:", stats)
     for mode in PALETTES:
-        with open(f"{mode}_mode.svg", "w", encoding="utf-8") as f:
+        with open(f"profile_{mode}.svg", "w", encoding="utf-8") as f:
             f.write(render(mode, stats))
-    print("wrote dark_mode.svg, light_mode.svg")
+    print("wrote profile_dark.svg, profile_light.svg")
