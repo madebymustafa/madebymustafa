@@ -171,8 +171,8 @@ def info_lines(s):
     n = lambda x: f"{x:,}"
     return [
         [(f"{USER.lower()}@github ", "h"), ("─" * (W - len(USER) - 8), "d")],
-        kv("Role", "Design Engineer"),
         [],
+        kv("Role", "Design Engineer"),
         kv("OS", "macOS"),
         kv("Uptime", f"{y} years, {m} months, {d} days"),
         kv("Host", "Macintosh"),
@@ -182,6 +182,7 @@ def info_lines(s):
         kv("Languages.Programming", "Python, C, Lua, TypeScript"),
         kv("Languages.Real", "German, English, Urdu, Hindi, Punjabi"),
         kv("Hobbies", "Photography"),
+        [],
         rule("Contact"),
         kv("Email", "hi.mustafa@icloud.com"),
         kv("LinkedIn", "in/madebymustafa"),
