@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="840" height="500" viewBox="0 0 840 500" font-family="Consolas, Menlo, monospace" font-size="13px">
-<rect x="0.5" y="0.5" width="839" height="499" rx="10" fill="#ffffff" stroke="#d0d7de"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="500" viewBox="0 0 1000 500" font-family="Consolas, Menlo, monospace" font-size="13px">
+<rect x="0.5" y="0.5" width="999" height="499" rx="10" fill="#ffffff" stroke="#d0d7de"/>
 <text x="20" y="45" font-size="10px" fill="#57606a" xml:space="preserve">%%%%%%%%%%%%%%%%%%%%%%%%%%@@@@@@%%%%%%%%%%%%%%%%%%%%%%</text>
 <text x="20" y="60" font-size="10px" fill="#57606a" xml:space="preserve">%%%%%%%%%%%%%%%%%%@@%#++-----=+#@@%%%%%%%%%%%%%%%%%%%%</text>
 <text x="20" y="75" font-size="10px" fill="#57606a" xml:space="preserve">%%%%%%%%%%%%%%%%%%#=:.          -#%%%%%%%%%%%%%%%%%%%%</text>
@@ -28,20 +28,20 @@
 <text x="20" y="420" font-size="10px" fill="#57606a" xml:space="preserve">@@@@@@@@@@@@%@@@*++=++*@@%=*+@@@+++++%@@@@%@@@@@@@@@@@</text>
 <text x="20" y="435" font-size="10px" fill="#57606a" xml:space="preserve">@@@@@@@@@@@%%@@@@#=+++*@@@%%%@@@%***%@@@@%*%%%%%@%%%@@</text>
 <text x="20" y="450" font-size="10px" fill="#57606a" xml:space="preserve">@%%%%%%%%%%##@@@@@%##%@@@@@@@@@@@@@@@@@@@#*%%%@@@%%%%%</text>
-<text x="400" y="45" xml:space="preserve"><tspan fill="#0969da">madebymustafa@github </tspan><tspan fill="#afb8c1">──────────────────────────────────</tspan></text>
-<text x="400" y="87" xml:space="preserve"><tspan fill="#953800">OS: </tspan><tspan fill="#afb8c1">............................................. </tspan><tspan fill="#24292f">macOS</tspan></text>
-<text x="400" y="108" xml:space="preserve"><tspan fill="#953800">Uptime: </tspan><tspan fill="#afb8c1">................... </tspan><tspan fill="#24292f">11 years, 0 months, 28 days</tspan></text>
-<text x="400" y="129" xml:space="preserve"><tspan fill="#953800">Host: </tspan><tspan fill="#afb8c1">....................................... </tspan><tspan fill="#24292f">Macintosh</tspan></text>
-<text x="400" y="150" xml:space="preserve"><tspan fill="#953800">Kernel: </tspan><tspan fill="#afb8c1">................................. </tspan><tspan fill="#24292f">Darwin 25.6.0</tspan></text>
-<text x="400" y="171" xml:space="preserve"><tspan fill="#953800">IDE: </tspan><tspan fill="#afb8c1">..................... </tspan><tspan fill="#24292f">Claude Code, Cursor, VS Code</tspan></text>
-<text x="400" y="213" xml:space="preserve"><tspan fill="#953800">Languages.Programming: </tspan><tspan fill="#afb8c1">..... </tspan><tspan fill="#24292f">Python, C, Lua, TypeScript</tspan></text>
-<text x="400" y="234" xml:space="preserve"><tspan fill="#953800">Languages.Real: </tspan><tspan fill="#afb8c1">. </tspan><tspan fill="#24292f">German, English, Urdu, Hindi, Punjabi</tspan></text>
-<text x="400" y="255" xml:space="preserve"><tspan fill="#953800">Hobbies: </tspan><tspan fill="#afb8c1">.................................. </tspan><tspan fill="#24292f">Photography</tspan></text>
-<text x="400" y="297" xml:space="preserve"><tspan fill="#0969da">─ Contact </tspan><tspan fill="#afb8c1">─────────────────────────────────────────────</tspan></text>
-<text x="400" y="318" xml:space="preserve"><tspan fill="#953800">Email: </tspan><tspan fill="#afb8c1">.......................... </tspan><tspan fill="#24292f">hi.mustafa@icloud.com</tspan></text>
-<text x="400" y="339" xml:space="preserve"><tspan fill="#953800">LinkedIn: </tspan><tspan fill="#afb8c1">........................... </tspan><tspan fill="#24292f">in/madebymustafa/</tspan></text>
-<text x="400" y="381" xml:space="preserve"><tspan fill="#0969da">─ GitHub Stats </tspan><tspan fill="#afb8c1">────────────────────────────────────────</tspan></text>
-<text x="400" y="402" xml:space="preserve"><tspan fill="#953800">Repos: </tspan><tspan fill="#afb8c1">.... </tspan><tspan fill="#24292f">4 {Contributed: 0}</tspan><tspan fill="#afb8c1"> | </tspan><tspan fill="#953800">Stars: </tspan><tspan fill="#afb8c1">............. </tspan><tspan fill="#24292f">84</tspan></text>
-<text x="400" y="423" xml:space="preserve"><tspan fill="#953800">Commits: </tspan><tspan fill="#afb8c1">.................. </tspan><tspan fill="#24292f">57</tspan><tspan fill="#afb8c1"> | </tspan><tspan fill="#953800">Followers: </tspan><tspan fill="#afb8c1">......... </tspan><tspan fill="#24292f">11</tspan></text>
-<text x="400" y="444" xml:space="preserve"><tspan fill="#953800">Lines of Code: </tspan><tspan fill="#24292f">20,765</tspan><tspan fill="#afb8c1"> ( </tspan><tspan fill="#1a7f37">22,345++</tspan><tspan fill="#afb8c1">, </tspan><tspan fill="#cf222e">1,580--</tspan><tspan fill="#afb8c1"> )</tspan></text>
+<text x="470" y="45" xml:space="preserve"><tspan fill="#0969da">madebymustafa@github </tspan><tspan fill="#afb8c1">──────────────────────────────────</tspan></text>
+<text x="470" y="87" xml:space="preserve"><tspan fill="#953800">OS: </tspan><tspan fill="#afb8c1">............................................. </tspan><tspan fill="#24292f">macOS</tspan></text>
+<text x="470" y="108" xml:space="preserve"><tspan fill="#953800">Uptime: </tspan><tspan fill="#afb8c1">................... </tspan><tspan fill="#24292f">11 years, 0 months, 28 days</tspan></text>
+<text x="470" y="129" xml:space="preserve"><tspan fill="#953800">Host: </tspan><tspan fill="#afb8c1">....................................... </tspan><tspan fill="#24292f">Macintosh</tspan></text>
+<text x="470" y="150" xml:space="preserve"><tspan fill="#953800">Kernel: </tspan><tspan fill="#afb8c1">................................. </tspan><tspan fill="#24292f">Darwin 25.6.0</tspan></text>
+<text x="470" y="171" xml:space="preserve"><tspan fill="#953800">IDE: </tspan><tspan fill="#afb8c1">..................... </tspan><tspan fill="#24292f">Claude Code, Cursor, VS Code</tspan></text>
+<text x="470" y="213" xml:space="preserve"><tspan fill="#953800">Languages.Programming: </tspan><tspan fill="#afb8c1">..... </tspan><tspan fill="#24292f">Python, C, Lua, TypeScript</tspan></text>
+<text x="470" y="234" xml:space="preserve"><tspan fill="#953800">Languages.Real: </tspan><tspan fill="#afb8c1">. </tspan><tspan fill="#24292f">German, English, Urdu, Hindi, Punjabi</tspan></text>
+<text x="470" y="255" xml:space="preserve"><tspan fill="#953800">Hobbies: </tspan><tspan fill="#afb8c1">.................................. </tspan><tspan fill="#24292f">Photography</tspan></text>
+<text x="470" y="297" xml:space="preserve"><tspan fill="#0969da">─ Contact </tspan><tspan fill="#afb8c1">─────────────────────────────────────────────</tspan></text>
+<text x="470" y="318" xml:space="preserve"><tspan fill="#953800">Email: </tspan><tspan fill="#afb8c1">.......................... </tspan><tspan fill="#24292f">hi.mustafa@icloud.com</tspan></text>
+<text x="470" y="339" xml:space="preserve"><tspan fill="#953800">LinkedIn: </tspan><tspan fill="#afb8c1">........................... </tspan><tspan fill="#24292f">in/madebymustafa/</tspan></text>
+<text x="470" y="381" xml:space="preserve"><tspan fill="#0969da">─ GitHub Stats </tspan><tspan fill="#afb8c1">────────────────────────────────────────</tspan></text>
+<text x="470" y="402" xml:space="preserve"><tspan fill="#953800">Repos: </tspan><tspan fill="#afb8c1">.... </tspan><tspan fill="#24292f">4 {Contributed: 0}</tspan><tspan fill="#afb8c1"> | </tspan><tspan fill="#953800">Stars: </tspan><tspan fill="#afb8c1">............. </tspan><tspan fill="#24292f">84</tspan></text>
+<text x="470" y="423" xml:space="preserve"><tspan fill="#953800">Commits: </tspan><tspan fill="#afb8c1">.................. </tspan><tspan fill="#24292f">58</tspan><tspan fill="#afb8c1"> | </tspan><tspan fill="#953800">Followers: </tspan><tspan fill="#afb8c1">......... </tspan><tspan fill="#24292f">11</tspan></text>
+<text x="470" y="444" xml:space="preserve"><tspan fill="#953800">Lines of Code: </tspan><tspan fill="#24292f">20,765</tspan><tspan fill="#afb8c1"> ( </tspan><tspan fill="#1a7f37">22,436++</tspan><tspan fill="#afb8c1">, </tspan><tspan fill="#cf222e">1,671--</tspan><tspan fill="#afb8c1"> )</tspan></text>
 </svg>
