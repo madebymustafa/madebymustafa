@@ -172,10 +172,10 @@ def info_lines(s):
     return [
         [(f"{USER.lower()}@github ", "h"), ("─" * (W - len(USER) - 8), "d")],
         [],
-        kv("OS", "macOS"),
+        kv("OS", "macOS (Darwin 25.6.0)"),
         kv("Uptime", f"{y} years, {m} months, {d} days"),
         kv("Host", "Macintosh"),
-        kv("Kernel", "Darwin 25.6.0"),
+        kv("Kernel", "Design Engineer"),
         kv("IDE", "Claude Code, Cursor, VS Code"),
         [],
         kv("Languages.Programming", "Python, C, Lua, TypeScript"),
@@ -216,7 +216,7 @@ def selfcheck():
     assert age(JOINED, date(2026, 8, 10)) == (11, 0, 28)
     assert age(date(2000, 3, 31), date(2026, 4, 1)) == (26, 0, 1)
     assert age(date(2000, 1, 1), date(2026, 1, 1)) == (26, 0, 0)
-    assert len("".join(t for t, _ in kv("OS", "macOS"))) == W
+    assert len("".join(t for t, _ in kv("OS", "macOS (Darwin 25.6.0)"))) == W
 
 
 if __name__ == "__main__":
