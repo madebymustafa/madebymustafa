@@ -11,7 +11,7 @@ from datetime import date, datetime, timezone
 
 USER = "madebymustafa"
 JOINED = date(2015, 7, 13)  # account creation date, never changes
-W = 55  # info column width in characters
+W = 53  # info column width in characters
 
 ART = r"""
 %%%%%%%%%%%%%%%%%%%%%%%%%%@@@@@@%%%%%%%%%%%%%%%%%%%%%%
@@ -204,9 +204,9 @@ def info_lines(s):
 def render(mode, stats):
     p = PALETTES[mode]
     out = [
-        '<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="500" viewBox="0 0 1000 500" '
+        '<svg xmlns="http://www.w3.org/2000/svg" width="840" height="500" viewBox="0 0 840 500" '
         f'font-family="Consolas, Menlo, monospace" font-size="13px">',
-        f'<rect x="0.5" y="0.5" width="999" height="499" rx="10" fill="{p["bg"]}" stroke="{p["border"]}"/>',
+        f'<rect x="0.5" y="0.5" width="839" height="499" rx="10" fill="{p["bg"]}" stroke="{p["border"]}"/>',
     ]
     for i, line in enumerate(ART.strip("\n").split("\n")):
         out.append(f'<text x="20" y="{45 + i * 15}" font-size="10px" fill="{p["art"]}" xml:space="preserve">{html.escape(line)}</text>')
@@ -214,7 +214,7 @@ def render(mode, stats):
         if not segs:
             continue
         spans = "".join(f'<tspan fill="{p[c]}">{html.escape(t)}</tspan>' for t, c in segs)
-        out.append(f'<text x="470" y="{45 + i * 21}" xml:space="preserve">{spans}</text>')
+        out.append(f'<text x="410" y="{45 + i * 21}" xml:space="preserve">{spans}</text>')
     out.append("</svg>")
     return "\n".join(out)
 
