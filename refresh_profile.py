@@ -35,7 +35,6 @@ ART = r"""
 %@@@@@@@@%@@*+++*@@@*+%@%+++*@@@@@@@@@@@@
 %@@@@@@@@%@@%*=+=*@%*#%@%++*%@@@%@@@@@@@@
 @%@@@@@@%#@@@@#*#%@@@@@@@@%@@@@%#%%@@%%%%
- 
 """
 
 # two tokens by design: the Actions GITHUB_TOKEN yields the contribution-style
@@ -200,7 +199,7 @@ def render(mode, stats):
         f'<rect x="0.5" y="0.5" width="839" height="499" rx="10" fill="{p["bg"]}" stroke="{p["border"]}"/>',
     ]
     for i, line in enumerate(ART.strip("\n").split("\n")):
-        out.append(f'<text x="29" y="{45 + i * 19.95}" fill="{p["art"]}" xml:space="preserve">{html.escape(line)}</text>')
+        out.append(f'<text x="29" y="{45 + i * 21}" fill="{p["art"]}" xml:space="preserve">{html.escape(line)}</text>')
     for i, segs in enumerate(info_lines(stats)):
         if not segs:
             continue

@@ -1,27 +1,26 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="840" height="500" viewBox="0 0 840 500" font-family="Consolas, Menlo, monospace" font-size="13px">
 <rect x="0.5" y="0.5" width="839" height="499" rx="10" fill="#0d1117" stroke="#30363d"/>
-<text x="29" y="45.0" fill="#8b949e" xml:space="preserve">%%%%%%%%%%%%%%%@@%%#%%%@@@%%%%%%%%%%%%%%%</text>
-<text x="29" y="64.95" fill="#8b949e" xml:space="preserve">%%%%%%%%%%%%%@%*=:.....:+%%%%%%%%%%%%%%%%</text>
-<text x="29" y="84.9" fill="#8b949e" xml:space="preserve">%%%%%%%%%%%%#+:          :#%%%%%%%%%%%%%%</text>
-<text x="29" y="104.85" fill="#8b949e" xml:space="preserve">%%%%%%%%%%@+.        -==- .=@%%%%%%%%%%%%</text>
-<text x="29" y="124.8" fill="#8b949e" xml:space="preserve">%%%%%%%%@#-.       :#@@@%-  *@%%%%%%%%%%%</text>
-<text x="29" y="144.75" fill="#8b949e" xml:space="preserve">%%%%%%%%*:       .-=*+=+*=  :#%%%%%%%%%%%</text>
-<text x="29" y="164.7" fill="#8b949e" xml:space="preserve">%%%%%%%@*:     .+##*#*+**+  .*#@%%%%%%%%%</text>
-<text x="29" y="184.65" fill="#8b949e" xml:space="preserve">%%%%%%%%%:     +%**+++**%*  :-*@%%%%%%%%%</text>
-<text x="29" y="204.6" fill="#8b949e" xml:space="preserve">%%%%%%%%@%:    =*##**#*##:  .:#@%%%%%%%%%</text>
-<text x="29" y="224.54999999999998" fill="#8b949e" xml:space="preserve">%%%%%%%%%@%-   :++*=-***-   .#@%%%%%%%%%%</text>
-<text x="29" y="244.5" fill="#8b949e" xml:space="preserve">%%%%%%%%%%@@#=:+%+-::-=#= -+%@%%%%%%%%%%%</text>
-<text x="29" y="264.45" fill="#8b949e" xml:space="preserve">%%%%%%%@@@@@@@#####**%%%%@@@@@@@%%%%%%%%%</text>
-<text x="29" y="284.4" fill="#8b949e" xml:space="preserve">%%%%@@@@@@@@@@@%%####%%@@@@@@@@@@@@@%%%%%</text>
-<text x="29" y="304.34999999999997" fill="#8b949e" xml:space="preserve">%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%</text>
-<text x="29" y="324.3" fill="#8b949e" xml:space="preserve">%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%</text>
-<text x="29" y="344.25" fill="#8b949e" xml:space="preserve">%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%</text>
-<text x="29" y="364.2" fill="#8b949e" xml:space="preserve">%@@@@@@@@@@@@@@@@@@%%#%@@@@@@@@@@@@@@@@@%</text>
-<text x="29" y="384.15" fill="#8b949e" xml:space="preserve">%@@@@@@@@@@@@%#%@@@*++#@@%*+#@@@@@@@@@@@%</text>
-<text x="29" y="404.09999999999997" fill="#8b949e" xml:space="preserve">%@@@@@@@@%@@*+++*@@@*+%@%+++*@@@@@@@@@@@@</text>
-<text x="29" y="424.05" fill="#8b949e" xml:space="preserve">%@@@@@@@@%@@%*=+=*@%*#%@%++*%@@@%@@@@@@@@</text>
-<text x="29" y="444.0" fill="#8b949e" xml:space="preserve">@%@@@@@@%#@@@@#*#%@@@@@@@@%@@@@%#%%@@%%%%</text>
-<text x="29" y="463.95" fill="#8b949e" xml:space="preserve"> </text>
+<text x="29" y="45" fill="#8b949e" xml:space="preserve">%%%%%%%%%%%%%%%@@%%#%%%@@@%%%%%%%%%%%%%%%</text>
+<text x="29" y="66" fill="#8b949e" xml:space="preserve">%%%%%%%%%%%%%@%*=:.....:+%%%%%%%%%%%%%%%%</text>
+<text x="29" y="87" fill="#8b949e" xml:space="preserve">%%%%%%%%%%%%#+:          :#%%%%%%%%%%%%%%</text>
+<text x="29" y="108" fill="#8b949e" xml:space="preserve">%%%%%%%%%%@+.        -==- .=@%%%%%%%%%%%%</text>
+<text x="29" y="129" fill="#8b949e" xml:space="preserve">%%%%%%%%@#-.       :#@@@%-  *@%%%%%%%%%%%</text>
+<text x="29" y="150" fill="#8b949e" xml:space="preserve">%%%%%%%%*:       .-=*+=+*=  :#%%%%%%%%%%%</text>
+<text x="29" y="171" fill="#8b949e" xml:space="preserve">%%%%%%%@*:     .+##*#*+**+  .*#@%%%%%%%%%</text>
+<text x="29" y="192" fill="#8b949e" xml:space="preserve">%%%%%%%%%:     +%**+++**%*  :-*@%%%%%%%%%</text>
+<text x="29" y="213" fill="#8b949e" xml:space="preserve">%%%%%%%%@%:    =*##**#*##:  .:#@%%%%%%%%%</text>
+<text x="29" y="234" fill="#8b949e" xml:space="preserve">%%%%%%%%%@%-   :++*=-***-   .#@%%%%%%%%%%</text>
+<text x="29" y="255" fill="#8b949e" xml:space="preserve">%%%%%%%%%%@@#=:+%+-::-=#= -+%@%%%%%%%%%%%</text>
+<text x="29" y="276" fill="#8b949e" xml:space="preserve">%%%%%%%@@@@@@@#####**%%%%@@@@@@@%%%%%%%%%</text>
+<text x="29" y="297" fill="#8b949e" xml:space="preserve">%%%%@@@@@@@@@@@%%####%%@@@@@@@@@@@@@%%%%%</text>
+<text x="29" y="318" fill="#8b949e" xml:space="preserve">%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%</text>
+<text x="29" y="339" fill="#8b949e" xml:space="preserve">%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%</text>
+<text x="29" y="360" fill="#8b949e" xml:space="preserve">%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%</text>
+<text x="29" y="381" fill="#8b949e" xml:space="preserve">%@@@@@@@@@@@@@@@@@@%%#%@@@@@@@@@@@@@@@@@%</text>
+<text x="29" y="402" fill="#8b949e" xml:space="preserve">%@@@@@@@@@@@@%#%@@@*++#@@%*+#@@@@@@@@@@@%</text>
+<text x="29" y="423" fill="#8b949e" xml:space="preserve">%@@@@@@@@%@@*+++*@@@*+%@%+++*@@@@@@@@@@@@</text>
+<text x="29" y="444" fill="#8b949e" xml:space="preserve">%@@@@@@@@%@@%*=+=*@%*#%@%++*%@@@%@@@@@@@@</text>
+<text x="29" y="465" fill="#8b949e" xml:space="preserve">@%@@@@@@%#@@@@#*#%@@@@@@@@%@@@@%#%%@@%%%%</text>
 <text x="374" y="45" xml:space="preserve"><tspan fill="#58a6ff">madebymustafa@github </tspan><tspan fill="#484f58">───────────────────────────────────</tspan></text>
 <text x="374" y="87" xml:space="preserve"><tspan fill="#ffa657">Vertical: </tspan><tspan fill="#484f58">.............................. </tspan><tspan fill="#c9d1d9">Design Engineer</tspan></text>
 <text x="374" y="108" xml:space="preserve"><tspan fill="#ffa657">OS: </tspan><tspan fill="#484f58">.............................................. </tspan><tspan fill="#c9d1d9">macOS</tspan></text>
@@ -37,6 +36,6 @@
 <text x="374" y="360" xml:space="preserve"><tspan fill="#ffa657">LinkedIn: </tspan><tspan fill="#484f58">............................. </tspan><tspan fill="#c9d1d9">in/madebymustafa</tspan></text>
 <text x="374" y="402" xml:space="preserve"><tspan fill="#58a6ff">─ GitHub Stats </tspan><tspan fill="#484f58">─────────────────────────────────────────</tspan></text>
 <text x="374" y="423" xml:space="preserve"><tspan fill="#ffa657">Repos: </tspan><tspan fill="#484f58">.................... </tspan><tspan fill="#c9d1d9">15</tspan><tspan fill="#484f58"> | </tspan><tspan fill="#ffa657">Stars: </tspan><tspan fill="#484f58">............. </tspan><tspan fill="#c9d1d9">86</tspan></text>
-<text x="374" y="444" xml:space="preserve"><tspan fill="#ffa657">Commits: </tspan><tspan fill="#484f58">................. </tspan><tspan fill="#c9d1d9">679</tspan><tspan fill="#484f58"> | </tspan><tspan fill="#ffa657">Followers: </tspan><tspan fill="#484f58">......... </tspan><tspan fill="#c9d1d9">11</tspan></text>
-<text x="374" y="465" xml:space="preserve"><tspan fill="#ffa657">Lines of Code: </tspan><tspan fill="#c9d1d9">333,204</tspan><tspan fill="#484f58"> ( </tspan><tspan fill="#3fb950">335,681++</tspan><tspan fill="#484f58">, </tspan><tspan fill="#f85149">2,477--</tspan><tspan fill="#484f58"> )</tspan></text>
+<text x="374" y="444" xml:space="preserve"><tspan fill="#ffa657">Commits: </tspan><tspan fill="#484f58">................. </tspan><tspan fill="#c9d1d9">680</tspan><tspan fill="#484f58"> | </tspan><tspan fill="#ffa657">Followers: </tspan><tspan fill="#484f58">......... </tspan><tspan fill="#c9d1d9">11</tspan></text>
+<text x="374" y="465" xml:space="preserve"><tspan fill="#ffa657">Lines of Code: </tspan><tspan fill="#c9d1d9">333,208</tspan><tspan fill="#484f58"> ( </tspan><tspan fill="#3fb950">335,699++</tspan><tspan fill="#484f58">, </tspan><tspan fill="#f85149">2,491--</tspan><tspan fill="#484f58"> )</tspan></text>
 </svg>
