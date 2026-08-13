@@ -21,6 +21,7 @@
 <text x="29" y="404.09999999999997" fill="#57606a" xml:space="preserve">%@@@@@@@@%@@*+++*@@@*+%@%+++*@@@@@@@@@@@@</text>
 <text x="29" y="424.05" fill="#57606a" xml:space="preserve">%@@@@@@@@%@@%*=+=*@%*#%@%++*%@@@%@@@@@@@@</text>
 <text x="29" y="444.0" fill="#57606a" xml:space="preserve">@%@@@@@@%#@@@@#*#%@@@@@@@@%@@@@%#%%@@%%%%</text>
+<text x="29" y="463.95" fill="#57606a" xml:space="preserve"> </text>
 <text x="374" y="45" xml:space="preserve"><tspan fill="#0969da">madebymustafa@github </tspan><tspan fill="#afb8c1">───────────────────────────────────</tspan></text>
 <text x="374" y="87" xml:space="preserve"><tspan fill="#953800">Vertical: </tspan><tspan fill="#afb8c1">.............................. </tspan><tspan fill="#24292f">Design Engineer</tspan></text>
 <text x="374" y="108" xml:space="preserve"><tspan fill="#953800">OS: </tspan><tspan fill="#afb8c1">.............................................. </tspan><tspan fill="#24292f">macOS</tspan></text>
@@ -31,11 +32,11 @@
 <text x="374" y="234" xml:space="preserve"><tspan fill="#953800">Languages.Programming: </tspan><tspan fill="#afb8c1">...... </tspan><tspan fill="#24292f">Python, C, Lua, TypeScript</tspan></text>
 <text x="374" y="255" xml:space="preserve"><tspan fill="#953800">Languages.Real: </tspan><tspan fill="#afb8c1">.......... </tspan><tspan fill="#24292f">English, Urdu, Hindi, Punjabi</tspan></text>
 <text x="374" y="276" xml:space="preserve"><tspan fill="#953800">Hobbies: </tspan><tspan fill="#afb8c1">................................... </tspan><tspan fill="#24292f">Photography</tspan></text>
-<text x="374" y="297" xml:space="preserve"><tspan fill="#0969da">─ Contact </tspan><tspan fill="#afb8c1">──────────────────────────────────────────────</tspan></text>
-<text x="374" y="318" xml:space="preserve"><tspan fill="#953800">Email: </tspan><tspan fill="#afb8c1">........................... </tspan><tspan fill="#24292f">hi.mustafa@icloud.com</tspan></text>
-<text x="374" y="339" xml:space="preserve"><tspan fill="#953800">LinkedIn: </tspan><tspan fill="#afb8c1">............................. </tspan><tspan fill="#24292f">in/madebymustafa</tspan></text>
-<text x="374" y="381" xml:space="preserve"><tspan fill="#0969da">─ GitHub Stats </tspan><tspan fill="#afb8c1">─────────────────────────────────────────</tspan></text>
-<text x="374" y="402" xml:space="preserve"><tspan fill="#953800">Repos: </tspan><tspan fill="#afb8c1">.................... </tspan><tspan fill="#24292f">15</tspan><tspan fill="#afb8c1"> | </tspan><tspan fill="#953800">Stars: </tspan><tspan fill="#afb8c1">............. </tspan><tspan fill="#24292f">86</tspan></text>
-<text x="374" y="423" xml:space="preserve"><tspan fill="#953800">Commits: </tspan><tspan fill="#afb8c1">................. </tspan><tspan fill="#24292f">678</tspan><tspan fill="#afb8c1"> | </tspan><tspan fill="#953800">Followers: </tspan><tspan fill="#afb8c1">......... </tspan><tspan fill="#24292f">11</tspan></text>
-<text x="374" y="444" xml:space="preserve"><tspan fill="#953800">Lines of Code: </tspan><tspan fill="#24292f">333,204</tspan><tspan fill="#afb8c1"> ( </tspan><tspan fill="#1a7f37">335,674++</tspan><tspan fill="#afb8c1">, </tspan><tspan fill="#cf222e">2,470--</tspan><tspan fill="#afb8c1"> )</tspan></text>
+<text x="374" y="318" xml:space="preserve"><tspan fill="#0969da">─ Contact </tspan><tspan fill="#afb8c1">──────────────────────────────────────────────</tspan></text>
+<text x="374" y="339" xml:space="preserve"><tspan fill="#953800">Email: </tspan><tspan fill="#afb8c1">........................... </tspan><tspan fill="#24292f">hi.mustafa@icloud.com</tspan></text>
+<text x="374" y="360" xml:space="preserve"><tspan fill="#953800">LinkedIn: </tspan><tspan fill="#afb8c1">............................. </tspan><tspan fill="#24292f">in/madebymustafa</tspan></text>
+<text x="374" y="402" xml:space="preserve"><tspan fill="#0969da">─ GitHub Stats </tspan><tspan fill="#afb8c1">─────────────────────────────────────────</tspan></text>
+<text x="374" y="423" xml:space="preserve"><tspan fill="#953800">Repos: </tspan><tspan fill="#afb8c1">.................... </tspan><tspan fill="#24292f">15</tspan><tspan fill="#afb8c1"> | </tspan><tspan fill="#953800">Stars: </tspan><tspan fill="#afb8c1">............. </tspan><tspan fill="#24292f">86</tspan></text>
+<text x="374" y="444" xml:space="preserve"><tspan fill="#953800">Commits: </tspan><tspan fill="#afb8c1">................. </tspan><tspan fill="#24292f">679</tspan><tspan fill="#afb8c1"> | </tspan><tspan fill="#953800">Followers: </tspan><tspan fill="#afb8c1">......... </tspan><tspan fill="#24292f">11</tspan></text>
+<text x="374" y="465" xml:space="preserve"><tspan fill="#953800">Lines of Code: </tspan><tspan fill="#24292f">333,204</tspan><tspan fill="#afb8c1"> ( </tspan><tspan fill="#1a7f37">335,681++</tspan><tspan fill="#afb8c1">, </tspan><tspan fill="#cf222e">2,477--</tspan><tspan fill="#afb8c1"> )</tspan></text>
 </svg>

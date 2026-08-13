@@ -35,6 +35,7 @@ ART = r"""
 %@@@@@@@@%@@*+++*@@@*+%@%+++*@@@@@@@@@@@@
 %@@@@@@@@%@@%*=+=*@%*#%@%++*%@@@%@@@@@@@@
 @%@@@@@@%#@@@@#*#%@@@@@@@@%@@@@%#%%@@%%%%
+ 
 """
 
 # two tokens by design: the Actions GITHUB_TOKEN yields the contribution-style
@@ -178,6 +179,7 @@ def info_lines(s):
         kv("Languages.Programming", "Python, C, Lua, TypeScript"),
         kv("Languages.Real", "English, Urdu, Hindi, Punjabi"),
         kv("Hobbies", "Photography"),
+        [],
         rule("Contact"),
         kv("Email", "hi.mustafa@icloud.com"),
         kv("LinkedIn", "in/madebymustafa"),
