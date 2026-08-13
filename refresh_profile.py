@@ -173,7 +173,7 @@ def info_lines(s):
         kv("Uptime", f"{y} years, {m} months, {d} days"),
         kv("Host", "Macintosh"),
         kv("Kernel", "Darwin 25.6.0 (macOS 26.6.1)"),
-        kv("IDE", "Claude Code, Cursor, VS Code"),
+        kv("IDE", "Claude, Cursor, VS Code, OpenCode"),
         [],
         kv("Languages.Programming", "Python, C, Lua, TypeScript"),
         kv("Languages.Real", "English, Urdu, Hindi, Punjabi"),
