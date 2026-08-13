@@ -92,15 +92,11 @@ def fetch_stats():
           totalCount
           nodes {{ name stargazerCount isFork }}
         }}
-        repositoriesContributedTo(first: 1, contributionTypes: [COMMIT, PULL_REQUEST, REPOSITORY]) {{
-          totalCount
         }}
-      }}
     }}""", token=PRIV_TOKEN)["user"]
     stats = {
         "followers": u["followers"]["totalCount"],
         "repos": u["repositories"]["totalCount"],
-        "contributed": u["repositoriesContributedTo"]["totalCount"],
         "stars": sum(n["stargazerCount"] for n in u["repositories"]["nodes"]),
         "commits": commits,
     }
@@ -176,7 +172,7 @@ def info_lines(s):
         kv("OS", "macOS"),
         kv("Uptime", f"{y} years, {m} months, {d} days"),
         kv("Host", "Macintosh"),
-        kv("Kernel", "Darwin 25.6.0"),
+        kv("Kernel", "Darwin 25.6.0 (macOS 26.6.1)"),
         kv("IDE", "Claude Code, Cursor, VS Code"),
         [],
         kv("Languages.Programming", "Python, C, Lua, TypeScript"),
@@ -187,7 +183,7 @@ def info_lines(s):
         kv("LinkedIn", "in/madebymustafa"),
         [],
         rule("GitHub Stats"),
-        kv2("Repos", f"{s['repos']} {{Contributed: {s['contributed']}}}", "Stars", n(s["stars"])),
+        kv2("Repos", n(s["repos"]), "Stars", n(s["stars"])),
         kv2("Commits", n(s["commits"]), "Followers", n(s["followers"])),
         [("Lines of Code: ", "k"), (n(s["loc"]), "v"), (" ( ", "d"),
          (n(s["loc_add"]) + "++", "g"), (", ", "d"), (n(s["loc_del"]) + "--", "r"), (" )", "d")],
