@@ -42,6 +42,7 @@ ART = r"""
 # sees private repos for the repo list and LOC walk. Either falls back to the other.
 TOKEN = os.environ.get("GITHUB_TOKEN") or os.environ.get("ACCESS_TOKEN") or ""
 PRIV_TOKEN = os.environ.get("ACCESS_TOKEN") or TOKEN
+IGNORED_REPOS = {"atelier"}  # vendored HTML theme, not hand-written code
 
 
 def gh(url, payload=None, token=None):
@@ -100,7 +101,7 @@ def fetch_stats():
         "stars": sum(n["stargazerCount"] for n in u["repositories"]["nodes"]),
         "commits": commits,
     }
-    stats.update(loc([n["name"] for n in u["repositories"]["nodes"] if not n["isFork"]], u["id"]))
+    stats.update(loc([n["name"] for n in u["repositories"]["nodes"] if not n["isFork"] and n["name"] not in IGNORED_REPOS], u["id"]))
     return stats
 
 
